@@ -1,5 +1,6 @@
 # CTetris
 A Tetris clone in C using SDL3 for graphics
+(To compile, link to your SDL headers or add the SDL3 folder with all the headers to the 'include' directory)
 
 # tetris.c / tetris.h
 This is the main File where all the game logic is handled.
