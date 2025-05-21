@@ -3,4 +3,4 @@
 *.dll
 *.exe
 
-include/SDL3
+include/SDL3/
