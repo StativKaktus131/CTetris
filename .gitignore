@@ -1,6 +1,0 @@
-*.lib
-*.a
-*.dll
-*.exe
-
-include/SDL3/
